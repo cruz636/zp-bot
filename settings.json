@@ -1,0 +1,26 @@
+{
+   "mercado_libre":[
+      {
+         "soup_tag":"a",
+         "next_page_path":"/_Desde_",
+         "starts_with":"https://departamento.mercadolibre.com.ar/MLA",
+         "next_page_index":48,
+         "price_tag":"span",
+         "price_class":"price-tag-fraction",
+         "coin_tag":"span",
+         "coin_class":"price-tag-symbol"
+      }
+   ],
+   "argen_prop":[
+      {
+         "soup_tag":"a",
+         "next_page_path":"-pagina-",
+         "starts_with":"/departamento-en-alquiler",
+         "next_page_index":1,
+         "price_tag":"p",
+         "price_class":"titlebar__price",
+         "coin_tag":"span",
+         "coin_class":""
+      }
+   ]
+}
